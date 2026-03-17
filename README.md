@@ -6,7 +6,7 @@ Je conçois des applications web utiles pour la vie universitaire : de l’idée
 
 ---
 
-## 🔎 Ce que je fais
+## Ce que je fais
 - Développement web **Laravel + TailwindCSS** (API, MVC, Auth, Files, Queues)
 - Intégration **front-end** propre et réactive (UX, composants réutilisables)
 - Initiation **IA / Vision par ordinateur** (projets académiques)
@@ -14,7 +14,7 @@ Je conçois des applications web utiles pour la vie universitaire : de l’idée
 
 ---
 
-## 🧰 Stack principale
+## Stack principale
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -22,11 +22,10 @@ Je conçois des applications web utiles pour la vie universitaire : de l’idée
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 
 ---
 
-## 📌 Projets sélectionnés
+## Projets sélectionnés
 
 ### 1) Plateforme de dépôt & gestion de rapports – **UPL**
 **Rôle :** Full‑stack (Laravel, TailwindCSS, MySQL)  
@@ -59,19 +58,19 @@ Je conçois des applications web utiles pour la vie universitaire : de l’idée
 
 ---
 
-## 🎯 Ce que j’apprends en ce moment
+## Ce que j’apprends en ce moment
 - Patterns avancés **Laravel** (Services, Repositories, Form Requests, Policies)
 - **Tests** (PHPUnit, Pest) et CI de base (GitHub Actions)
 - Bonnes pratiques de **déploiement** (environnements, variables, backups)
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 J’aime travailler sur des outils utiles pour étudiants/enseignants.  
 **Ouvert à :** contributions open‑source, mini‑projets web utiles, POCs IA simples.
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 - Email : **semkasanga@gmail.com**
 - LinkedIn : *https://www.linkedin.com/in/sem-kasanga-81b876293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlGOPEuCnTLKN8GvaWorjJg%3D%3D*
