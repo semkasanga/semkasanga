@@ -43,16 +43,26 @@
 
 ---
 
-### Statistiques & Activité
+---
+
+### Statistiques & Écosystème
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=semkasanga&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semkasanga&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=semkasanga&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats de Sem" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semkasanga&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=semkasanga&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semkasanga&layout=donut&theme=radical&hide_border=true" alt="Donut Chart Langs" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=semkasanga&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,py,postgres,mysql,git,vite&theme=dark" alt="Mes compétences en icônes" />
+</p>
+
+---
 
 ---
 
