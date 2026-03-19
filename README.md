@@ -43,8 +43,6 @@
 
 ---
 
----
-
 ### Statistiques & Écosystème
 
 <p align="center">
