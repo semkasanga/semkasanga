@@ -64,8 +64,6 @@
 
 ---
 
----
-
 ### En plein apprentissage
 - **Architecture :** Design Patterns (Repository, Service Layer) et SOLID.
 - **Qualité :** Tests automatisés avec Pest et PHPUnit.
