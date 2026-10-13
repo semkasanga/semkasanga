@@ -41,7 +41,7 @@ Module applicatif du framework VELT PHP destiné à faciliter la compatibilité 
 
 - **Technologie principale :** PHP
 
-### Utaxi
+### [Utaxi](https://uzzacompany.com/)
 
 Application mobile de covoiturage visant à simplifier la mise en relation entre conducteurs et passagers.
 
