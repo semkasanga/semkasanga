@@ -1,9 +1,18 @@
 # Sem Kasanga
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Statut-Étudiant%20en%20génie%20logiciel%20(L3)-2563EB?style=flat-square" alt="Statut : étudiant en génie logiciel">
+  <img src="https://img.shields.io/badge/Statut-Étudiant%20en%20génie%20logiciel%20(L4)-2563EB?style=flat-square" alt="Statut : étudiant en génie logiciel">
   <img src="https://img.shields.io/badge/Spécialités-Full--stack%20%26%20IA-16A34A?style=flat-square" alt="Spécialités : développement full-stack et intelligence artificielle">
   <img src="https://img.shields.io/badge/Localisation-Lubumbashi%2C%20RDC-DC2626?style=flat-square" alt="Localisation : Lubumbashi, RDC">
+  <a href="https://dev.to/sem_kasanga_cd70f10e7e56b">
+    <img height="96" src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/badge/badge_image/488/hacktoberfest-2026-attendee.png" alt="Hacktoberfest 2026 Fest Attendee">
+  </a>
+  <a href="https://dev.to/sem_kasanga_cd70f10e7e56b">
+    <img height="96" src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/badge/badge_image/487/hacktoberfest-2026-host.png" alt="Hacktoberfest 2026 Host">
+  </a>
+  <a href="https://user-badge.committers.top/congo_kinshasa/semkasanga">
+    <img src="https://user-badge.committers.top/congo_kinshasa/semkasanga.svg" alt="committers.top badge">
+  </a>
 </p>
 
 ## À propos
@@ -29,13 +38,13 @@ Framework PHP modulaire conçu pour accélérer le développement d'applications
 - **Technologie principale :** PHP
 - **Points forts :** architecture modulaire, modules indépendants et syntaxe claire
 
-### [VELT PHP — Kernel](https://github.com/Velt-PHP/veltphp-kernel)
+### [VELT PHP - Kernel](https://github.com/Velt-PHP/veltphp-kernel)
 
 Module central du framework VELT PHP, responsable de l'orchestration et de la coordination de ses différents composants.
 
 - **Technologie principale :** PHP
 
-### [VELT PHP — Native](https://github.com/Velt-PHP/velt-native)
+### [VELT PHP - Native](https://github.com/Velt-PHP/velt-native)
 
 Module applicatif du framework VELT PHP destiné à faciliter la compatibilité avec la plateforme Android.
 
@@ -52,6 +61,16 @@ Application mobile de covoiturage visant à simplifier la mise en relation entre
 - **Architecture logicielle :** principes SOLID, design patterns, Repository et Service Layer
 - **Qualité logicielle :** tests automatisés avec Pest et PHPUnit
 - **Développement mobile :** conception d'applications multiplateformes avec React Native
+
+## Engagement communautaire
+
+### Hacktoberfest 2026 - Hôte et participant
+
+Organisation et participation à Hacktoberfest 2026, une initiative open source internationale. Accompagnement des contributeurs et contribution active à des projets open source.
+
+## Badges Holopin
+
+[![Collection de badges Holopin de Sem Kasanga](https://holopin.me/semkasanga)](https://www.holopin.io/@semkasanga#badges)
 
 ## Statistiques GitHub
 
